@@ -1,5 +1,5 @@
 # QuadroCompartilhadoUsandoLua
- Lousa compartilhada usando Lua (Love2D)  http://crislaniomacedo.zz.vc/
+ Lousa compartilhada usando Lua (Love2D)  http://geek.890m.com/
 Projeto para Lousa Compartilhada utilizando **Lua** com framework *Love2D*; E *Enet Reliable UDP networking library*. 
 
 ## A aplicação
